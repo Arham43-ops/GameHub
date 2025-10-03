@@ -71,7 +71,7 @@ This project is **not open for direct copying or reuse**. The code is provided f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/JavaScript-Games.git
+   git clone https://github.com/Arham43-ops/JavaScript-Games.git
    ```
 2. Navigate to any game directory
 3. Open `index.html` in your web browser
@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For any inquiries, please reach out to [topiwalaarham@gmail.com](mailto:topiwalaarham@gmail.com)
 
 ---
 
