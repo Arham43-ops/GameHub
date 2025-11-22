@@ -18,9 +18,7 @@ This project is currently **under active development**. The code and features ar
 
 This project is **not open for direct copying or reuse**. The code is provided for educational and demonstration purposes only. All rights are reserved.
 
-## 🎯 Features
 
-- 30+ unique games built with vanilla JavaScript
 - Responsive design that works on desktop and mobile devices
 - No external dependencies - pure HTML5, CSS3, and JavaScript
 - Clean and well-commented code for educational purposes
