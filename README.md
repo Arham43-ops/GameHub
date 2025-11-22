@@ -96,12 +96,6 @@ Please open an issue to discuss any changes you'd like to make.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Inspired by classic arcade and mobile games
-- Built with ❤️ for educational purposes
-- Special thanks to all the open-source projects that made this possible
-
 ## 📬 Contact
 
 For any inquiries, please reach out to [topiwalaarham@gmail.com](mailto:topiwalaarham@gmail.com)
